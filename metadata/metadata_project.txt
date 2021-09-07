@@ -1,0 +1,5 @@
+{
+  "description": "Dolphins jumping through the air.", 
+  "image": "https://ipfs.io/ipfs/QmYgd6fELbirNTEKG656qTxSikwnagSd7LCFC1tUSiWSZJ", 
+  "name": "Dizzy Dolphins NFT"
+}
