@@ -1,6 +1,6 @@
 {
   "name":"Dizzy Dolphins #2",
   "description":"A dizzy dolphin jumping out of the water.",
-  "image":"https://gateway.pinata.cloud/ipfs/QmdizkBT75MGxfXo6W7MzCpje6U3t9kffA1BhDeh6mdKBv/2.png",
+  "image":"https://raw.githubusercontent.com/grantreighard/DizzyDolphinsData/cb5481d926e7f61f3cf493bdaa1690bdc9a55021/images/2.png",
   "attributes":[{"id":6,"layer":"sky","name":"pink","rarity":"original"},{"id":1,"layer":"waves","name":"black","rarity":"original"},{"id":1,"layer":"outline","name":"outline","rarity":"original"},{"id":6,"layer":"dolphin","name":"orange","rarity":"original"},{"id":1,"layer":"pattern","name":"0","rarity":"original"}]
 }
