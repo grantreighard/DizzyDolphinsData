@@ -3,4 +3,4 @@
   "description":"A dizzy dolphin jumping out of the water.",
   "image":"https://ipfs.io/ipfs/QmQwoWJnJAKUGtBeMXUT49jzarq4roggrKxMFreBZ7jpUY",
   "attributes":{"hash":"0621617681","decodedHash":[{"0":6},{"2":1},{"6":1},{"7":6},{"8":1}],"edition":2,"date":1630942610913,"attributes":[{"id":6,"layer":"sky","name":"pink","rarity":"original"},{"id":1,"layer":"waves","name":"black","rarity":"original"},{"id":1,"layer":"outline","name":"outline","rarity":"original"},{"id":6,"layer":"dolphin","name":"orange","rarity":"original"},{"id":1,"layer":"pattern","name":"0","rarity":"original"}]}
-  }
+}
